@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello visual studio git!\n";
+    std::cout << "リモートリポジトリでの変更点\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
